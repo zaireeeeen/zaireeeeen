@@ -25,6 +25,6 @@ Find your own writing voice. Not mine. Yours. → [kitaa.gumroad.com](https://ki
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2140?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-biswass)&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-7B1E3B?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/zaireeeeen/)&nbsp;&nbsp;[![Behance](https://img.shields.io/badge/Behance-4D1124?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/ankita)&nbsp;&nbsp;[![Gumroad](https://img.shields.io/badge/Gumroad-8A2140?style=flat-square&logo=gumroad&logoColor=white)](https://kitaa.gumroad.com)
+[<img src="https://github.com/zaireeeeen/zaireeeeen/raw/refs/heads/main/linkedin.svg" width="48">](https://www.linkedin.com/in/ankita-biswass)&nbsp;&nbsp;[<img src="https://github.com/zaireeeeen/zaireeeeen/raw/refs/heads/main/instagram.svg" width="48">](https://www.instagram.com/zaireeeeen/)&nbsp;&nbsp;[<img src="https://github.com/zaireeeeen/zaireeeeen/raw/refs/heads/main/behance.svg" width="48">](https://www.behance.net/ankita)&nbsp;&nbsp;[<img src="https://github.com/zaireeeeen/zaireeeeen/raw/refs/heads/main/gumroad.svg" width="48">](https://kitaa.gumroad.com)
 
 [ankitabiswas.com](https://ankitabiswas.com)
