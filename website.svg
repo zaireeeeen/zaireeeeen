@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <radialGradient id="glow-website" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4D1124" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#4D1124" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="36" cy="36" r="26" fill="url(#glow-website)">
+    <animate attributeName="r" values="24;34;24" dur="3.9s" begin="2.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3.9s" begin="2.1s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="8" y="8" width="56" height="56" rx="14" fill="#7B1E3B">
+    <animate attributeName="fill" values="#7B1E3B;#4D1124;#7B1E3B" dur="3.9s" begin="2.1s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(21,21) scale(1.25)" fill="none" stroke="#FBF5F3" stroke-width="1.6">
+    <circle cx="12" cy="12" r="8.25"/>
+    <ellipse cx="12" cy="12" rx="8.25" ry="3"/>
+    <ellipse cx="12" cy="12" rx="3" ry="8.25"/>
+  </g>
+</svg>

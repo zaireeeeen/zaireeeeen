@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <radialGradient id="glow-email" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8A2140" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#8A2140" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="36" cy="36" r="26" fill="url(#glow-email)">
+    <animate attributeName="r" values="24;34;24" dur="3.0s" begin="0.00s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3.0s" begin="0.00s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="8" y="8" width="56" height="56" rx="14" fill="#4D1124">
+    <animate attributeName="fill" values="#4D1124;#8A2140;#4D1124" dur="3.0s" begin="0.00s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(21,21) scale(1.25)">
+    <path d="M3 6.75V17.25C3 18.9069 4.34315 20.25 6 20.25H18C19.6569 20.25 21 18.9069 21 17.25V6.75M3 6.75C3 5.09315 4.34315 3.75 6 3.75H18C19.6569 3.75 21 5.09315 21 6.75M3 6.75L12 13.5L21 6.75" fill="none" stroke="#FBF5F3" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
