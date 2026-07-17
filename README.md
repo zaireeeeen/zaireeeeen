@@ -1,8 +1,6 @@
-<div align="center">
+![banner](https://github.com/zaireeeeen/zaireeeeen/raw/refs/heads/main/banner.svg)
 
-### Art Meets Algorithm.
-
-![typing line](https://readme-typing-svg.demolab.com/?font=Georgia&size=16&pause=1000&color=8A2140&center=true&vCenter=true&width=440&lines=Creative+strategist+building+with+AI)
+![typing line](https://readme-typing-svg.demolab.com/?font=Georgia&size=16&pause=1000&color=8A2140&center=false&vCenter=true&width=440&lines=Creative+strategist+building+with+AI)
 
 ![brand](https://img.shields.io/badge/brand-strategy-8A2140?style=flat-square)
 ![tool](https://img.shields.io/badge/tool-claude%20code-7B1E3B?style=flat-square)
@@ -12,8 +10,6 @@
 ![base](https://img.shields.io/badge/base-Dubai%2C%20UAE-4D1124?style=flat-square)
 ![status](https://img.shields.io/badge/status-open%20to%20work-8A2140?style=flat-square)
 ![product](https://img.shields.io/badge/product-find%20your%20voice-7B1E3B?style=flat-square)
-
-</div>
 
 ---
 
@@ -30,8 +26,4 @@ Find your own writing voice. Not mine. Yours. → [kitaa.gumroad.com](https://ki
 
 ---
 
-<div align="center">
-
 [ankitabiswas.com](https://ankitabiswas.com) · [LinkedIn](https://www.linkedin.com/in/ankita-biswass) · [Behance](https://www.behance.net/ankita)
-
-</div>
